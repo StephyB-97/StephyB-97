@@ -1,7 +1,7 @@
 - 👋 Hi, I am Stephanie Bernades 
-- 👀 I’m interested in getting all the preparation and experience to be a succesful pentester. 
-- 🌱 I’m currently learning Ethical Hacking on my own while I am completing my computer science degree. 
-- 💞️ I’m looking to collaborate on projects related to cybersecurity or development. 
+- 👀 I’m always working to get better in the software enginnering field. 
+- 🌱 I’m a computer Science student in Florida State University. 
+- 💞️ Recently I've been working on a web development program and developing more skills when working with algorithms. 
 - 📫 You can reach me at my email stephaniebstephy@gmail.com
 
 <!---
